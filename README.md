@@ -46,6 +46,6 @@ git clone https://github.com/whaleygeek/anyio
 
 4. Create a folder "anyio" in MyAdventures
 
- * Copy the anyio/seg7.py file to MyAdventures/anyio 
- * Copy the anyio/__init__.py file to MyAdventures/anyio
+  * Copy the anyio/seg7.py file to MyAdventures/anyio 
+  * Copy the anyio/__init__.py file to MyAdventures/anyio
 
