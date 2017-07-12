@@ -49,3 +49,12 @@ git clone https://github.com/whaleygeek/anyio
   * Copy the anyio/seg7.py file to MyAdventures/anyio 
   * Copy the anyio/__init__.py file to MyAdventures/anyio
 
+5. Download bitio from github [https://github.com/AdventuresInMinecraft/bitio](github.com/AdventuresInMinecraft/bitio)
+
+```
+git clone https://github.com/AdventuresInMinecraft/bitio
+```
+
+6. Copy the bitio/src/microbit folder to MyAdventures
+
+7. Copy the bitio/bitio.hex file to MyAdventures
