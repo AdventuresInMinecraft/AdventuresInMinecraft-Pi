@@ -17,6 +17,8 @@ The structure of the StarterKit is as follows:
   * MyAdventures : folder to save the minecraft programs too
     * mcpi : python api library distributed with Minecraft: Pi Edition and minecraftstuff libraries
     * anyio : python library which contains the library to control the 7 segment display
+    * microbit : python library which contains the library to control the microbit
+    * bitio.hex : the bitio microbit program which should be copied to the BBC micro:bit
 
 ## StarterKit Creation Guide
 
