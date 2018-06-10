@@ -30,7 +30,7 @@ Create a folder "MyAdventures"
 
 ### Setup MyAdventures folder
 
-1. Get mcpi from github https://github.com/martinohanlon/mcpi
+1. Get mcpi from github [https://github.com/martinohanlon/mcpi](github.com/martinohanlon/mcpi)
 
 ```
 git clone https://github.com/martinohanlon/mcpi
@@ -40,23 +40,31 @@ Note - the mcpi repository contains the python 3 version of the library supplied
 
 2. Copy the mcpi folder to MyAdventures
 
-3. Download anyio from github [https://github.com/whaleygeek/anyio](github.com/whaleygeek/anyio)
+3. Get the minecraft-stuff module from [https://github.com/martinohanlon/minecraft-stuff](github.com/martinohanlon/minecraft-stuff)
+
+```
+git clone https://github.com/martinohanlon/minecraft-stuff
+```
+
+4. Copy "minecraftstuff\minecraftstuff.py" to the mcpi folder.
+
+5. Download anyio from github [https://github.com/whaleygeek/anyio](github.com/whaleygeek/anyio)
 
 ```
 git clone https://github.com/whaleygeek/anyio
 ```
 
-4. Create a folder "anyio" in MyAdventures
+6. Create a folder "anyio" in MyAdventures
 
   * Copy the anyio/seg7.py file to MyAdventures/anyio 
   * Copy the anyio/__init__.py file to MyAdventures/anyio
 
-5. Download bitio from github [https://github.com/AdventuresInMinecraft/bitio](github.com/AdventuresInMinecraft/bitio)
+7. Download bitio from github [https://github.com/AdventuresInMinecraft/bitio](github.com/AdventuresInMinecraft/bitio)
 
 ```
 git clone https://github.com/AdventuresInMinecraft/bitio
 ```
 
-6. Copy the bitio/src/microbit folder to MyAdventures
+8. Copy the bitio/src/microbit folder to MyAdventures
 
-7. Copy the bitio/bitio.hex file to MyAdventures
+9. Copy the bitio/bitio.hex file to MyAdventures
